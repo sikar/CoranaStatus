@@ -1,0 +1,25 @@
+{
+  "name": "coronastatus",
+  "version": "1.0.0",
+  "description": "Just a test to get the status on corana data ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "corana",
+    "status",
+    "node",
+    "test"
+  ],
+  "author": "Sriram",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "nodemon": "^2.0.4",
+    "novelcovid": "^2.2.0"
+  }
+}
