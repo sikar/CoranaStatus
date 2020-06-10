@@ -9,3 +9,5 @@ To test the current day covid data we use the novelcovid lib to fetch and show t
 3. View current updated data on http://localhost:5000/countries
 
 Can we be extended to more with two day data , full list of data for each countries further. This is just a beginning.
+
+![Screenshot](screenshot.png)
